@@ -1,0 +1,38 @@
+body {
+	font-family: Cabin, san-serif;
+}
+
+
+.startup {
+	/*display: flex;
+	flex-flow: column wrap;
+	align-items: center;*/
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.lower-half {
+	padding: 0px 15px;
+}
+
+.alert {
+	padding: 15px 15px;
+}
+
+.email-listing {
+	padding: 0px 15px;
+}
+
+.social-media {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+}
