@@ -1,7 +1,9 @@
-body {
+body, html {
+	width: auto;
+	height: auto;
 	font-family: Cabin, san-serif;
-	font-size: 2rem;
-}
+/*	font-size: 2rem;
+*/}
 
 
 .startup {
