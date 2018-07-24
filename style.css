@@ -2,25 +2,15 @@ body, html {
 	width: auto;
 	height: auto;
 	font-family: Cabin, san-serif;
-/*	font-size: 2rem;
-*/}
-
-.menu {
-	max-width: 100%;
-	height: auto;
-	vertical-align: middle;
 }
 
-
-.startup {
-	/*display: flex;
-	flex-flow: column wrap;
-	align-items: center;*/
-}
-
-img {
+.responsive {
 	width: 100%;
 	height: auto;
+}
+
+.jumbotron {
+	padding: 0px 15px;
 }
 
 .lower-half {
