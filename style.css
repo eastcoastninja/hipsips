@@ -5,6 +5,12 @@ body, html {
 /*	font-size: 2rem;
 */}
 
+.menu {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
 
 .startup {
 	/*display: flex;
